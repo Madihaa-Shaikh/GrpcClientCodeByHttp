@@ -1,0 +1,140 @@
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/GrpcClient.exe
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/GrpcClient.deps.json
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/GrpcClient.runtimeconfig.json
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/GrpcClient.dll
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/GrpcClient.pdb
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/Grpc.Core.Api.dll
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/Grpc.Net.Client.dll
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/Grpc.Net.Common.dll
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.AssemblyReference.cache
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfoInputs.cache
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfo.cs
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.CoreCompileInputs.cache
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.Up2Date
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/GrpcClient.dll
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/refint/GrpcClient.dll
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/GrpcClient.pdb
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/GrpcClient.genruntimeconfig.cache
+C:/Users/behmm/OneDrive/DIREKT/APs/3/AP 3.1.1 AFOS/MyClientPplicationForTriton/MyClientPplicationForTriton/GrpcClient/obj/Debug/net8.0/ref/GrpcClient.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient.deps.json
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient.runtimeconfig.json
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient.pdb
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Google.Protobuf.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Grpc.Core.Api.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Grpc.Net.Client.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Grpc.Net.Common.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.AssemblyReference.cache
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfoInputs.cache
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfo.cs
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.Up2Date
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/refint/GrpcClient.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.pdb
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.genruntimeconfig.cache
+/mnt/c/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/ref/GrpcClient.dll
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient.exe
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient.deps.json
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient.runtimeconfig.json
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient.dll
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/GrpcClient.pdb
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Grpc.Core.Api.dll
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Grpc.Net.Client.dll
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Grpc.Net.Common.dll
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.AssemblyReference.cache
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfoInputs.cache
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfo.cs
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.CoreCompileInputs.cache
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.Up2Date
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.dll
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/refint/GrpcClient.dll
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.pdb
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/GrpcClient.genruntimeconfig.cache
+C:/Users/Madiha Shaikh/source/repos/ApplicationForGrpc/GrpcClient/obj/Debug/net8.0/ref/GrpcClient.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.deps.json
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.runtimeconfig.json
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.pdb
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Google.Protobuf.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Grpc.Core.Api.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Grpc.Net.Client.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Grpc.Net.Common.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/OpenCvSharp.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/runtimes/linux-x64/native/libOpenCvSharpExtern.so
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.AssemblyReference.cache
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfoInputs.cache
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfo.cs
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.Up2Date
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/refint/GrpcClient.dll
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.pdb
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.genruntimeconfig.cache
+/mnt/c/Users/Madiha Shaikh/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/ref/GrpcClient.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.exe
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.deps.json
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.runtimeconfig.json
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.pdb
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Grpc.Core.Api.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Grpc.Net.Client.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Grpc.Net.Common.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/OpenCvSharp.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/runtimes/linux-x64/native/libOpenCvSharpExtern.so
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.AssemblyReference.cache
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfoInputs.cache
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfo.cs
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.CoreCompileInputs.cache
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.Up2Date
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/refint/GrpcClient.dll
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.pdb
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.genruntimeconfig.cache
+C:/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/ref/GrpcClient.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.deps.json
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.runtimeconfig.json
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/GrpcClient.pdb
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Google.Protobuf.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Grpc.Core.Api.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Grpc.Net.Client.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Grpc.Net.Common.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/Newtonsoft.Json.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/OpenCvSharp.Extensions.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/OpenCvSharp.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/System.Drawing.Common.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/runtimes/linux-x64/native/libOpenCvSharpExtern.so
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.AssemblyReference.cache
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfoInputs.cache
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.AssemblyInfo.cs
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.csproj.CopyComplete
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/refint/GrpcClient.dll
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.pdb
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/GrpcClient.genruntimeconfig.cache
+/mnt/c/Users/Hiwi/source/repos/TritonForPhoto/GrpcClient/obj/Debug/net8.0/ref/GrpcClient.dll

@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Inference/Health.cs \
+obj\Debug\net8.0\Inference/HealthGrpc.cs: Inference/health.proto

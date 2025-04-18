@@ -1,0 +1,3 @@
+obj/Debug/net8.0/Inference/GrpcService.cs \
+obj/Debug/net8.0/Inference/GrpcServiceGrpc.cs: Inference/model_config.proto\
+ Inference/grpc_service.proto

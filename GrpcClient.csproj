@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework> <!-- Update this to your target .NET version -->
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.Net.Client" Version="2.67.0" />
+    <PackageReference Include="Google.Protobuf" Version="3.29.1" />
+    <PackageReference Include="Grpc.Tools" Version="2.69.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	  <PackageReference Include="OpenCvSharp4" Version="4.5.3.20210607" />
+	  <PackageReference Include="OpenCvSharp4.runtime.linux-x64" Version="4.10.0.20240717" />
+	  
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="Inference\health.proto" GrpcServices="Client" />
+    <Protobuf Include="Inference\model_config.proto" GrpcServices="Client" />
+    <Protobuf Include="Inference\grpc_service.proto" GrpcServices="Client" />
+  </ItemGroup>
+
+</Project>
